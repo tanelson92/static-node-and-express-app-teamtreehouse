@@ -9,7 +9,7 @@
             ],
             "live_link": "https://tanelson92.github.io/a-random-quote-generator-2021/",
             "github_link": "https://github.com/tanelson92/a-random-quote-generator-2021",
-            "image_urls": ["/images/unit-1-project.png", "/images/unit-1-project-2.png"]
+            "image_urls": ["unit-1-project.png", "unit-1-project-2.png", "unit-1-landing.png"]
         },
         {
             "id": 1,
@@ -20,7 +20,7 @@
             ],
             "live_link": "https://tanelson92.github.io/data-pagination-filtering-treehouse/",
             "github_link": "https://github.com/tanelson92/data-pagination-filtering-treehouse",
-            "image_urls": ["/images/unit-2-project.png", "/images/unit-2-project-2.png"]
+            "image_urls": ["unit-2-project.png", "unit-2-project-2.png", "unit-2-landing.png"]
         },
         {
             "id": 2,
@@ -31,7 +31,7 @@
             ],
             "live_link": "https://tanelson92.github.io/interactive-form-treehouse-2021/",
             "github_link": "https://github.com/tanelson92/interactive-form-treehouse-2021",
-            "image_urls": ["/images/unit-3-project.png", "/images/unit-3-project-2.png"]
+            "image_urls": ["unit-3-project.png", "unit-3-project-2.png", "unit-3-landing.png"]
         },
         {
             "id": 3,
@@ -42,18 +42,18 @@
             ],
             "live_link": "https://tanelson92.github.io/oop-game-show-treehouse-2022/",
             "github_link": "https://github.com/tanelson92/oop-game-show-treehouse-2022",
-            "image_urls": ["/images/unit-4-project.png", "/images/unit-4-project-2.png"]
+            "image_urls": ["unit-4-project.png", "unit-4-project-2.png", "unit-4-landing.png"]
         },
         {
             "id": 4,
             "project_name": "Public API Requests",
             "description": "This project demonstrates an employee directory based on data acquired from successfully connecting to a public API for random user data. The app includes search result filtering based on Javascript DOM manipulation.",
             "technologies": [
-                "HTML", "CSS", "Javascript"
+                "HTML", "CSS", "Javascript", "Fetch API"
             ],
             "live_link": "https://tanelson92.github.io/public-api-requests-team-treehouse-2022/",
             "github_link": "https://github.com/tanelson92/public-api-requests-team-treehouse-2022",
-            "image_urls": ["/images/unit-4-project.png", "/images/unit-4-project-2.png"]
+            "image_urls": ["unit-5-project.png", "unit-5-project-2.png", "unit-5-landing.png"]
         }
     ]
 }

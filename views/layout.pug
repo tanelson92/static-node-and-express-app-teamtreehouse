@@ -4,35 +4,29 @@ html(lang="en" dir="ltr")
     meta(charset='utf-8')
     meta(http-equiv='x-ua-compatible', content='ie=edge')
     meta(name='viewport', content='width=device-width, initial-scale=1.0')
-    title Portfolio Site
-    link(href='https://fonts.googleapis.com/css?family=Merriweather:300,400,400i,700,800', rel='stylesheet')
+    title My Portfolio | Trent Nelson
+    link(href='https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400;700&display=swap', rel='stylesheet')
     link(rel='stylesheet', href='/static/css/normalize.css')
     link(rel='stylesheet', href='/static/css/styles.css')
+    link(rel='stylesheet', href='/static/css/main.css')
 
   body
     #my-info.sidebar
       .sidebar-info-box
         br
         .thumbnail-box
-          img.thumbnail(src='https://placehold.it/550x350', alt='')
+          img.thumbnail(src='/static/images/trent.jpg', alt='A picture of Trent Nelson')
         .dev-intro-box
 
-          //- Replace with your name
           h5 Trent Nelson
-
-          //- Replace with description of who you are, what you do, and why you are so awesome
-          p A Javascript developer with 4 years experience in Frontend Development, a Bachelors of Science in Information Technology, and a tiny clue about what I'm doing. 
-
-          //- Add path from your '/about' route handler to the href below
+          p A Javascript developer with 4 years experience in Frontend Development, a Bachelors of Science in Information Technology, and a teeny tiny clue about what I'm doing. 
           a(href='/about') Learn More &rarr;
 
     .wrapper
       .header
         .header-info-box
           button#menu-icon.menu-icon(type='button' data-toggle='my-info')
-
-          //- Replace with your name — this is for the mobile layout
-          span Name
+          span Trent Nelson
 
       block content
 
