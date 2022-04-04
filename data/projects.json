@@ -9,7 +9,7 @@
             ],
             "live_link": "https://tanelson92.github.io/a-random-quote-generator-2021/",
             "github_link": "https://github.com/tanelson92/a-random-quote-generator-2021",
-            "image_urls": []
+            "image_urls": ["/images/unit-1-project.png", "/images/unit-1-project-2.png"]
         },
         {
             "id": 1,
@@ -20,7 +20,7 @@
             ],
             "live_link": "https://tanelson92.github.io/data-pagination-filtering-treehouse/",
             "github_link": "https://github.com/tanelson92/data-pagination-filtering-treehouse",
-            "image_urls": []
+            "image_urls": ["/images/unit-2-project.png", "/images/unit-2-project-2.png"]
         },
         {
             "id": 2,
@@ -31,7 +31,7 @@
             ],
             "live_link": "https://tanelson92.github.io/interactive-form-treehouse-2021/",
             "github_link": "https://github.com/tanelson92/interactive-form-treehouse-2021",
-            "image_urls": []
+            "image_urls": ["/images/unit-3-project.png", "/images/unit-3-project-2.png"]
         },
         {
             "id": 3,
@@ -42,7 +42,7 @@
             ],
             "live_link": "https://tanelson92.github.io/oop-game-show-treehouse-2022/",
             "github_link": "https://github.com/tanelson92/oop-game-show-treehouse-2022",
-            "image_urls": []
+            "image_urls": ["/images/unit-4-project.png", "/images/unit-4-project-2.png"]
         },
         {
             "id": 4,
@@ -53,7 +53,7 @@
             ],
             "live_link": "https://tanelson92.github.io/public-api-requests-team-treehouse-2022/",
             "github_link": "https://github.com/tanelson92/public-api-requests-team-treehouse-2022",
-            "image_urls": []
+            "image_urls": ["/images/unit-4-project.png", "/images/unit-4-project-2.png"]
         }
     ]
 }
