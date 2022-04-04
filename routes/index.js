@@ -5,6 +5,7 @@ const data = require('../data/projects.json');
 //Homepage
 router.get('/', (req, res) => {
     res.locals.projects = data.projects;
+    console.log(res.locals.projects);
     res.render('index', { projects: res.locals.projects });
 });
 

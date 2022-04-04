@@ -3,7 +3,7 @@
         {
             "id": 0,
             "project_name": "A Random Quote Generator",
-            "description": "A Team Treehouse project ",
+            "description": "This project demonstrates a random quote generator using only HTML, CSS, and Javascript. Either by simple interval timing or by direct user input the page will select a new quote from a pool of existing quotes.",
             "technologies": [
                 "HTML", "CSS", "Javascript"
             ],
@@ -14,7 +14,7 @@
         {
             "id": 1,
             "project_name": "Data Pagination and Filtering",
-            "description": "",
+            "description": "This project demonstrates data pagination and filtering using Javascript to toggle element styling based on the search query provided.",
             "technologies": [
                 "HTML", "CSS", "Javascript"
             ],
@@ -25,7 +25,7 @@
         {
             "id": 2,
             "project_name": "Interactive Form",
-            "description": "",
+            "description": "This project demonstrates HTML interactivity via Javascript based around the users input. Characteristics include form validation and DOM manipulation.",
             "technologies": [
                 "HTML", "CSS", "Javascript"
             ],
@@ -36,7 +36,7 @@
         {
             "id": 3,
             "project_name": "OOP Game Show App",
-            "description": "",
+            "description": "A simple word game where the user guesses the letters that make up a phrase to identify the phrase as a whole. This project demonstrates HTML interactivity via Javascript.",
             "technologies": [
                 "HTML", "CSS", "Javascript"
             ],
@@ -47,7 +47,7 @@
         {
             "id": 4,
             "project_name": "Public API Requests",
-            "description": "",
+            "description": "This project demonstrates an employee directory based on data acquired from successfully connecting to a public API for random user data. The app includes search result filtering based on Javascript DOM manipulation.",
             "technologies": [
                 "HTML", "CSS", "Javascript"
             ],
