@@ -4,7 +4,11 @@ const app = express();
 
 app.set('view engine', 'pug'); //use pug for templates.
 
-const routes = require('./routes/'); //routes/index.js
+/* 
+* Main Routes
+*/
+
+const routes = require('./routes/');
 app.use(routes);
 
 app.use('/static', express.static(path.join(__dirname, 'public')));
